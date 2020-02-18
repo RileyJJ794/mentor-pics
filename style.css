@@ -59,7 +59,9 @@ h1 {
   height: 400px;
 }
 
-
+.carousel-item{
+  object-fit: contain;
+}
 .carousel {
   justify-content: center;
   margin: auto;
